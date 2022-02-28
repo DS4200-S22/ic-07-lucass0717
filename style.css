@@ -22,6 +22,11 @@ body {
   fill: orange;
 }
 
+/* Circle class styling goes here */
+.circle {
+  fill: rgb(21, 224, 214);
+}
+
 /* Tooltip class styling goes here */
 .tooltip {
   position: absolute;
